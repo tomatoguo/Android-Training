@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_menu_contents">
+        <item>Page Blue</item>
+        <item>Page Red</item>
+        <item>Page Green</item>
+        <item>Page Orange</item>
+    </string-array>
+</resources>
